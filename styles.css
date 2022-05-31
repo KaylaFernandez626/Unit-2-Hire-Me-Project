@@ -1,0 +1,30 @@
+body {background: url(https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v546batch3-mynt-34-badgewatercolor_1.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=89288ef4b47127f7f34a5998b50e4470
+    );}
+
+body {
+    font-family: Patrick hand;
+    border: 10px dotted white;
+}
+
+h1 {
+    text-align: center;
+    border: 3px solid #ff9999;
+    background-color: white;
+    color: #ff9999;
+}
+
+.bio {
+    text-align: center;
+    border: 3px solid #ff9999;
+    color: #ff9999;
+    background-color: white;
+}
+
+.favorite {
+    color: #4d4d4d;
+}
+
+img {
+    width: 500px;
+    margin: 10px 20px 50px 90px;
+}
